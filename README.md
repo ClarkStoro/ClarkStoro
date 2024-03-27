@@ -1,4 +1,4 @@
-### Hi there, I'm Emanuele 👋
+## Hi there, I'm Emanuele 👋
 Passionate Mobile Developer and tech enthusiast who loves to solve real problems with technology. Always looking for the next side project to build!
 
 - 👨🏻‍💻 I work remotely as Mobile Developer [@Bitrock](https://bitrock.it)
@@ -6,4 +6,8 @@ Passionate Mobile Developer and tech enthusiast who loves to solve real problems
 - 🚀 I design and develop apps in Android & iOS native, Kotlin Multiplatform and Flutter
 - 📍 I'm based in Treviso, Italy 🇮🇹
 - 🏎️ Cars and Motorsports enthusiast
-- 📫 How to reach me: emanuele.maso97@gmail.com
+- 📫 Let's connect!
+    - emanuele.maso97@gmail.com
+    - Linkedin [@emanuele-maso](https://www.linkedin.com/in/emanuele-maso/)
+    - Instagram [@ema_mobile_dev](https://www.instagram.com/ema_mobile_dev)
+    - X [@Bitrock](https://www.x.com/ema_mobile_dev)
