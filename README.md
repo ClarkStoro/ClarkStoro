@@ -5,5 +5,5 @@ Passionate Mobile Developer and tech enthusiast who loves to solve real problems
 - 🏁 I co-founded [@Togerod](https://www.instagram.com/togerodapp)
 - 🚀 I design and develop apps in Android & iOS native, Kotlin Multiplatform and Flutter
 - 📍 I'm based in Treviso, Italy 🇮🇹
-- 🏎️ Cars & Motorsports enthusiast
+- 🏎️ Cars and Motorsports enthusiast
 - 📫 How to reach me: emanuele.maso97@gmail.com
