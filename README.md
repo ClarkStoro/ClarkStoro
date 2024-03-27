@@ -8,6 +8,6 @@ Passionate Mobile Developer and tech enthusiast who loves to solve real problems
 - 🏎️ Cars and Motorsports enthusiast
 - 📫 Let's connect!
     - Email: emanuele.maso97@gmail.com
-    - LinkedIn: [@emanuele-maso](https://www.linkedin.com/in/emanuele-maso/){:target="_blank"}
-    - Instagram: [@ema_mobile_dev](https://www.instagram.com/ema_mobile_dev){:target="_blank"}
-    - X: [@ema_mobile_dev](https://www.x.com/ema_mobile_dev){:target="_blank"}
+    - LinkedIn: [@emanuele-maso](https://www.linkedin.com/in/emanuele-maso/)
+    - Instagram: [@ema_mobile_dev](https://www.instagram.com/ema_mobile_dev)
+    - X: [@ema_mobile_dev](https://www.x.com/ema_mobile_dev)
