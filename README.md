@@ -7,7 +7,7 @@ Passionate Mobile Developer and tech enthusiast who loves to solve real problems
 - 📍 I'm based in Treviso, Italy 🇮🇹
 - 🏎️ Cars and Motorsports enthusiast
 - 📫 Let's connect!
-    - emanuele.maso97@gmail.com
-    - Linkedin [@emanuele-maso](https://www.linkedin.com/in/emanuele-maso/)
-    - Instagram [@ema_mobile_dev](https://www.instagram.com/ema_mobile_dev)
-    - X [@Bitrock](https://www.x.com/ema_mobile_dev)
+    - Email: emanuele.maso97@gmail.com
+    - LinkedIn: [@emanuele-maso](https://www.linkedin.com/in/emanuele-maso/)
+    - Instagram: [@ema_mobile_dev](https://www.instagram.com/ema_mobile_dev)
+    - X: [@ema_mobile_dev](https://www.x.com/ema_mobile_dev)
